@@ -124,7 +124,7 @@ public class MemoriaVirtual {
                 }
                 
             }
-            //System.out.println(quadros);
+            //System.out.println(quadros); 
                  
     }
         System.out.println("OTM " + faltaPag);
